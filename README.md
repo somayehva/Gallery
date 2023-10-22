@@ -6,7 +6,7 @@ Create a stunning image gallery with a landing page featuring a collection of im
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/gallery/).
 
 ## Technologies Used
 
